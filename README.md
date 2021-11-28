@@ -9,7 +9,7 @@
 首先克隆仓库代码：
 
 ```bash
-$ git clone https://github.com/zxuqian/zxuqian.cn.git
+$ git clone https://github.com/guyingd/guyinga.top.git
 
 ```
 
@@ -128,14 +128,7 @@ hygen doc new react-get-started
 
 ### Comments
 
-## 赞助
-
-本博客的设计、代码均免费提供，如果觉得对你有帮助，可以小赞一笔，以支持我发布更好的视频、文章和代码，感谢！
-
-|                          微信                          |                       支付宝                        |
-| :----------------------------------------------------: | :-------------------------------------------------: |
-| <img src="./static/img/wechatPay.webp" height="250" /> | <img src="./static/img/aliPay.webp" height="250" /> |
-## 关于版权
+## 关于版权©
 
 所有插件、主题代码均为开源，可自由使用分发。其他内容包括但不限于文章、图片、视频等版权均为作者所有，但遵循 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-Hans) 协议，转载时请注明来源和署名，并且不可用于商业目的。
 
